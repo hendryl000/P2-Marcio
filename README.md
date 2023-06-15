@@ -24,5 +24,5 @@ Os alunos anotaram atentamente a todas as observações, criaram o fluxograma do
 
 <h1>Codigo:</h1>
 <img src='https://github.com/hendryl000/P2-Marcio/assets/80292331/f5eb8b1d-1af4-4a95-a0d8-7a56b09b3378.png">
-<img src ="![image](https://github.com/hendryl000/P2-Marcio/assets/80292331/73431ddc-11f6-4aa1-bf9b-a5d9415c8f3f)"
+<img src ="![image](https://github.com/hendryl000/P2-Marcio/assets/80292331/73431ddc-11f6-4aa1-bf9b-a5d9415c8f3f)">
 
