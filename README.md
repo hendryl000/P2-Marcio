@@ -20,11 +20,11 @@ Os alunos anotaram atentamente a todas as observações, criaram o fluxograma do
 <P>Estrutura de dados</P>
 
 <h1>Fluxograma:</h1>
-<img src="https://github.com/hendryl000/P2-Marcio/issues/1#issue-1759448939.png">
+<img src="https://github.com/hendryl000/P2-Marcio/assets/80292331/38005cec-f1b7-4a53-b184-d29f2fae807e.png">
 
 <h1>Codigo:</h1>
 
 
 <img src="https://github.com/hendryl000/P2-Marcio/assets/80292331/f5eb8b1d-1af4-4a95-a0d8-7a56b09b3378.png">
-<img src ="https://github.com/hendryl000/P2-Marcio/assets/80292331/73431ddc-11f6-4aa1-bf9b-a5d9415c8f3f">
+<img src ="https://github.com/hendryl000/P2-Marcio/assets/80292331/73431ddc-11f6-4aa1-bf9b-a5d9415c8f3f.png">
 
