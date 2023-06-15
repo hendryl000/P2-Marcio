@@ -22,3 +22,4 @@ Os alunos anotaram atentamente a todas as observações, criaram o fluxograma do
 <h1>Fluxograma:</h1>
 <img src="https://github.com/hendryl000/P2-Marcio/issues/1#issue-1759448939.png">
 
+<h1>Codigo:</h1>
