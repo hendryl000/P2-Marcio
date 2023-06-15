@@ -23,6 +23,6 @@ Os alunos anotaram atentamente a todas as observações, criaram o fluxograma do
 <img src="https://github.com/hendryl000/P2-Marcio/issues/1#issue-1759448939.png">
 
 <h1>Codigo:</h1>
-<img src='https://github.com/hendryl000/P2-Marcio/issues/2#issue-1759456750.png">
+<img src='https:/user-images.githubusercontent.com-1759456750.png">
 <img src ="![image](https://github.com/hendryl000/P2-Marcio/assets/80292331/73431ddc-11f6-4aa1-bf9b-a5d9415c8f3f)"
 
