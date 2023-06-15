@@ -20,5 +20,5 @@ Os alunos anotaram atentamente a todas as observações, criaram o fluxograma do
 <P>Estrutura de dados</P>
 
 <h1>Fluxograma:</h1>
-![image](https://github.com/hendryl000/P2-Marcio/assets/80292331/effc49c4-4f16-48fc-b9e8-668b7ac9c9ca)
+<img src="https://github.com/hendryl000/P2-Marcio/issues/1#issue-1759448939">
 
