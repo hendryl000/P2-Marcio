@@ -11,3 +11,7 @@ Os alunos anotaram atentamente a todas as observações, criaram o fluxograma do
 <p>Matheus Beiruth<br>
   Eduardo Freire<br>
   Hendryl Alves</p>
+
+<h1>Professor:</h1>
+<p>Marcio Garrido</p>
+<p>https://github.com/marciogarridoLaCop</p>
