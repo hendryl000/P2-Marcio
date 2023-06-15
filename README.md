@@ -8,6 +8,6 @@ A prefeitura precisa de um sistema que possa cadastrar todos os animais por tipo
 Os alunos anotaram atentamente a todas as observações, criaram o fluxograma do estudo de caso, e posteriormente o primeiro protótipo em Python, ainda que em modo texto, e sem requisitos gráficos. A ideia foi apenas validar a proposta do programa junto ao solicitante.</h3>
 
 <h1>Participantes:</h1>
-<p>Matheus Beiruth
-  Eduardo Freire
+<p>Matheus Beiruth<br>
+  Eduardo Freire<br>
   Hendryl Alves</p>
