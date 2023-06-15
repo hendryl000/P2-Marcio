@@ -15,3 +15,6 @@ Os alunos anotaram atentamente a todas as observações, criaram o fluxograma do
 <h1>Professor:</h1>
 <p>Marcio Garrido</p>
 <p>https://github.com/marciogarridoLaCop</p>
+
+<h1>Disciplina</h1>
+<P>Estrutura de dados</P>
